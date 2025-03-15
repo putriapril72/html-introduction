@@ -8,7 +8,7 @@ to organize the appearance of HTML elements. CSS can be used to change the color
 
 ### Stucture basic of HTML
 1. DOCTYPE
-   to define the type or version of the HTML document
+   - to define the type or version of the HTML document
 3. html
    to mark the beginning and end of the HTML document
 5. head
