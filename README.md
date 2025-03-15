@@ -18,7 +18,7 @@ to organize the appearance of HTML elements. CSS can be used to change the color
 
 ### Elements used :
 1. img
-- to display the website image. 
+#### to display the website image
  - src : for url image
  - alt : for image description
  - height : for change height of image
