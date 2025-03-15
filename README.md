@@ -24,10 +24,10 @@ to organize the appearance of HTML elements. CSS can be used to change the color
  - height : for change height of image
  - widht : for change widht of image
 2. a
-- for link it to website page
+#### for link it to website page
  - href : contains the url of the link destination
 3. h1, h2
-- serves to display the heading
+ #### serves to display the heading
 4. list
  - li, stores each list item
  - ol, Ordered List
