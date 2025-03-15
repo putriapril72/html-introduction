@@ -19,19 +19,19 @@ to organize the appearance of HTML elements. CSS can be used to change the color
 ### Elements used :
 1. img
 - to display the website image. 
-a. src : for url image
-b. alt : for image description
-c. height : for change height of image
-d. widht : for change widht of image
+ - src : for url image
+ - alt : for image description
+ - height : for change height of image
+ - widht : for change widht of image
 2. a
 - for link it to website page
-a. href : contains the url of the link destination
+ - href : contains the url of the link destination
 3. h1, h2
 - serves to display the heading
 4. list
-a. li, stores each list item
-b. ol, Ordered List
-c. ui, Unordered List
+ - li, stores each list item
+ - ol, Ordered List
+ - ui, Unordered List
 
   ### Insight
   By utilizing every structure and element that exists, we can make the web look the way we want
